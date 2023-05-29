@@ -1,2 +1,3 @@
 This is b3 file
 Hey b3 file
+How are you?
